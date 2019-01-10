@@ -7,3 +7,5 @@ To Run The Game:
 - 'make'
 - './PA4'
 - When you are done, 'make clean'
+
+Game rules and  instructions can be found in Game Documentation.
