@@ -1,2 +1,9 @@
 # EC327---Astronaut-Alien-Game
-C/C++
+
+
+To Run The Game:
+----------------
+- Open Terminal
+- 'make'
+- './PA4'
+- When you are done, 'make clean'
